@@ -14,7 +14,7 @@ const express = require("express"),
 mongoose.Promise = require("bluebird");
 
 //==============================================================================
-// Create app instances
+// Create app instance
 const app = express();
 //==============================================================================
 
